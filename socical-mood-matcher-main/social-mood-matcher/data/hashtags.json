@@ -1,0 +1,10 @@
+{
+ "food": ["#FoodPhotography", "#Foodie", "#Homemade", "#ComfortFood"],
+ "travel": ["#TravelPhotography", "#BeachLife", "#GoldenHour", "#Wanderlust"],
+ "luxury": ["#LuxuryLifestyle", "#Premium", "#Elegance"],
+ "cozy": ["#CozyVibes", "#WarmMoments", "#StayCozy"],
+ "aesthetic": ["#AestheticVibes", "#Mood", "#Vibes"],
+ "playful": ["#FunTimes", "#Playful", "#Adventure"],
+ "peaceful": ["#Peaceful", "#Calm", "#Serene"],
+ "energetic": ["#Energy", "#Active", "#Vibrant"]
+}
